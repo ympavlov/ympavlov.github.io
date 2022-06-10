@@ -27,7 +27,7 @@ jobs:
         run: sudo apt install -y fnt unoconv
 
       - name: Install fonts
-        run: fnt install google-merriweather fonts-open-sans
+        run: fnt update && fnt install google-merriweather fonts-open-sans
 
       - name: Make content
         run: make
