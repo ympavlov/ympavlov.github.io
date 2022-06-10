@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ooo="http://openoffice.org/2004/office" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:generator>LibreOffice/6.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><dc:title>Юрий Павлов резюме Java Dev</dc:title><meta:keyword>Резюме Java Разработчик</meta:keyword><meta:initial-creator>&gt;Юрий Павлов</meta:initial-creator><meta:creation-date>2022-06-10T12:58:00Z</meta:creation-date><dc:date>2022-06-10T21:41:14.110408457</dc:date><meta:editing-cycles>13</meta:editing-cycles><meta:editing-duration>PT15M25S</meta:editing-duration><meta:document-statistic meta:table-count="1" meta:image-count="2" meta:object-count="0" meta:page-count="2" meta:paragraph-count="100" meta:word-count="800" meta:character-count="6083" meta:non-whitespace-character-count="5410"/><meta:user-defined meta:name="AppVersion">14.0000</meta:user-defined><meta:user-defined meta:name="HyperlinkBase">https://ympavlov.github.io/ru/Resume_Yury_Pavlov.odt</meta:user-defined><meta:user-defined meta:name="HyperlinksChanged" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="LinksUpToDate" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ScaleCrop" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ShareDoc" meta:value-type="boolean">false</meta:user-defined></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">39901</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">24978</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">24943</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">4523</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">39899</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">24977</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">true</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">405449</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">125978</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="OpenSymbol" svg:font-family="OpenSymbol" style:font-family-generic="system" style:font-charset="x-symbol"/>
+  <style:font-face style:name="Symbol" svg:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol"/>
+  <style:font-face style:name="Lohit Devanagari" svg:font-family="&apos;Lohit Devanagari&apos;" style:font-family-generic="roman"/>
+  <style:font-face style:name="Noto Sans CJK SC" svg:font-family="&apos;Noto Sans CJK SC&apos;" style:font-family-generic="roman"/>
+  <style:font-face style:name="Noto Sans Mono CJK SC" svg:font-family="&apos;Noto Sans Mono CJK SC&apos;" style:font-family-generic="roman"/>
+  <style:font-face style:name="Noto Serif CJK SC" svg:font-family="&apos;Noto Serif CJK SC&apos;" style:font-family-generic="roman"/>
+  <style:font-face style:name="FreeSans" svg:font-family="FreeSans" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Open Sans" svg:font-family="&apos;Open Sans&apos;" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Merriweather" svg:font-family="Merriweather" style:font-family-generic="system"/>
+  <style:font-face style:name="FreeMono" svg:font-family="FreeMono" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Mono" svg:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Segoe UI Symbol" svg:font-family="&apos;Segoe UI Symbol&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties draw:stroke="solid" svg:stroke-width="0.071cm" svg:stroke-color="#385d8a" draw:fill-color="#4f81bd" fo:wrap-option="wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Liberation Serif" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="ru" fo:country="RU" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lohit Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:break-before="auto" fo:break-after="auto" fo:background-color="transparent" fo:padding="0cm" fo:border="none" style:shadow="none" fo:keep-with-next="auto" text:number-lines="true" text:line-number="0" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.251cm" style:snap-to-layout-grid="true" style:writing-mode="lr-tb">
+    <style:background-image/>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Liberation Serif" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="ru" fo:country="RU" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lohit Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-combine="none" style:text-scale="100%" style:font-relief="none" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Обычный" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:hyphenation-ladder-count="no-limit" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Noto Sans CJK SC" style:font-family-asian="&apos;Noto Sans CJK SC&apos;" style:font-family-generic-asian="roman" style:font-size-asian="14pt" style:font-size-complex="14pt" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Обычный" style:class="text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.15cm" loext:contextual-spacing="false" fo:hyphenation-ladder-count="no-limit"/>
+   <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit"/>
+   <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="extra">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit"/>
+   <style:text-properties style:font-name="Merriweather" fo:font-family="Merriweather" style:font-family-generic="system" fo:font-size="22pt" fo:font-weight="bold" style:font-size-asian="22pt" style:font-weight-asian="bold" style:font-size-complex="28pt" style:font-weight-complex="bold" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Обычный" style:class="index">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.21cm" fo:margin-bottom="0.15cm" loext:contextual-spacing="false" fo:hyphenation-ladder-count="no-limit"/>
+   <style:text-properties fo:text-transform="uppercase" fo:color="#2079c7" style:font-name="Open Sans" fo:font-family="&apos;Open Sans&apos;" style:font-family-generic="swiss" fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.3cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:hyphenation-ladder-count="no-limit"/>
+   <style:text-properties style:font-name="Merriweather" fo:font-family="Merriweather" style:font-family-generic="system" fo:font-size="11pt" fo:font-weight="bold" style:font-size-asian="11pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.199cm" fo:margin-bottom="0.199cm" loext:contextual-spacing="false" fo:hyphenation-ladder-count="no-limit"/>
+   <style:text-properties fo:color="#666666" style:font-name="Open Sans" fo:font-family="&apos;Open Sans&apos;" style:font-family-generic="swiss" fo:font-size="10pt" style:font-size-asian="10pt" style:font-weight-complex="bold" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Обычный" style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit"/>
+   <style:text-properties style:font-name="Merriweather" fo:font-family="Merriweather" style:font-family-generic="system" fo:font-size="9pt" style:font-size-asian="9pt" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Название_20_объекта" style:display-name="Название объекта" style:family="paragraph" style:parent-style-name="Обычный">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:hyphenation-ladder-count="no-limit" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-style-complex="italic" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Обычный" style:class="extra">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit"/>
+   <style:text-properties style:font-name="Open Sans" fo:font-family="&apos;Open Sans&apos;" style:font-family-generic="swiss" fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="18pt" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Frame_20_contents" style:display-name="Frame contents" style:family="paragraph" style:parent-style-name="Обычный" style:class="extra">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit"/>
+   <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Приветствие" style:family="paragraph" style:parent-style-name="Обычный">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Обычный" style:class="html">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit"/>
+   <style:text-properties style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Noto Sans Mono CJK SC" style:font-family-asian="&apos;Noto Sans Mono CJK SC&apos;" style:font-family-generic-asian="roman" style:font-size-asian="10pt" style:font-name-complex="Liberation Mono" style:font-family-complex="&apos;Liberation Mono&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="List_20_Contents" style:display-name="List Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Основной_20_шрифт_20_абзаца" style:display-name="Основной шрифт абзаца" style:family="text"/>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous"/>
+  </style:style>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-family-generic="system" style:font-charset="x-symbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-family-generic-asian="system" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-family-generic-complex="system" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Гиперссылка" style:family="text" style:parent-style-name="Основной_20_шрифт_20_абзаца">
+   <style:text-properties fo:color="#0000ff" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous"/>
+  </style:style>
+  <style:style style:name="WW_5f_CharLFO3LVL1" style:display-name="WW_CharLFO3LVL1" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW_5f_CharLFO3LVL2" style:display-name="WW_CharLFO3LVL2" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW_5f_CharLFO3LVL3" style:display-name="WW_CharLFO3LVL3" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW_5f_CharLFO3LVL4" style:display-name="WW_CharLFO3LVL4" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW_5f_CharLFO3LVL5" style:display-name="WW_CharLFO3LVL5" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW_5f_CharLFO3LVL6" style:display-name="WW_CharLFO3LVL6" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW_5f_CharLFO3LVL7" style:display-name="WW_CharLFO3LVL7" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW_5f_CharLFO3LVL8" style:display-name="WW_CharLFO3LVL8" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW_5f_CharLFO3LVL9" style:display-name="WW_CharLFO3LVL9" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW_5f_CharLFO4LVL1" style:display-name="WW_CharLFO4LVL1" style:family="text">
+   <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-family-generic="system" style:font-charset="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-family-generic-complex="system" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW_5f_CharLFO4LVL2" style:display-name="WW_CharLFO4LVL2" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW_5f_CharLFO4LVL3" style:display-name="WW_CharLFO4LVL3" style:family="text">
+   <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-family-generic="system" style:font-charset="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-family-generic-complex="system" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW_5f_CharLFO4LVL4" style:display-name="WW_CharLFO4LVL4" style:family="text">
+   <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-family-generic="system" style:font-charset="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-family-generic-complex="system" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW_5f_CharLFO4LVL5" style:display-name="WW_CharLFO4LVL5" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW_5f_CharLFO4LVL6" style:display-name="WW_CharLFO4LVL6" style:family="text">
+   <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-family-generic="system" style:font-charset="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-family-generic-complex="system" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW_5f_CharLFO4LVL7" style:display-name="WW_CharLFO4LVL7" style:family="text">
+   <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-family-generic="system" style:font-charset="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-family-generic-complex="system" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW_5f_CharLFO4LVL8" style:display-name="WW_CharLFO4LVL8" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW_5f_CharLFO4LVL9" style:display-name="WW_CharLFO4LVL9" style:family="text">
+   <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-family-generic="system" style:font-charset="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-family-generic-complex="system" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
+  <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text"/>
+  <style:style style:name="Visited_20_Internet_20_Link" style:display-name="Visited Internet Link" style:family="text">
+   <style:text-properties fo:color="#800000" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+  </style:style>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Endnote_20_anchor" style:display-name="Endnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Graphics" style:family="graphic"/>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" text:citation-style-name="Footnote_20_Symbol" text:citation-body-style-name="Footnote_20_anchor" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" text:citation-style-name="Endnote_20_Symbol" text:citation-body-style-name="Endnote_20_anchor" text:master-page-name="Endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="Таблица1" style:family="table" style:master-page-name="MP0">
+   <style:table-properties style:width="19.368cm" fo:margin-left="-0.072cm" style:page-number="auto" table:align="left"/>
+  </style:style>
+  <style:style style:name="Таблица1.A" style:family="table-column">
+   <style:table-column-properties style:column-width="9.394cm"/>
+  </style:style>
+  <style:style style:name="Таблица1.B" style:family="table-column">
+   <style:table-column-properties style:column-width="3.81cm"/>
+  </style:style>
+  <style:style style:name="Таблица1.C" style:family="table-column">
+   <style:table-column-properties style:column-width="6.163cm"/>
+  </style:style>
+  <style:style style:name="Таблица1.A1" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.097cm" fo:border="none"/>
+  </style:style>
+  <style:style style:name="Таблица1.5" style:family="table-row">
+   <style:table-row-properties style:min-row-height="16.327cm"/>
+  </style:style>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Caption">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Subtitle">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="00033c77"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:letter-kerning="false" style:font-name-asian="Arial" style:font-name-complex="Arial" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="en" fo:country="US"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0.199cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2"/>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:text-properties style:letter-kerning="false" style:font-name-asian="Arial" style:font-name-complex="Arial" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:text-properties fo:language="en" fo:country="US"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Обычный" style:list-style-name="L1"/>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties style:font-name="FreeSans" fo:font-weight="bold" style:font-name-asian="FreeSans" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties style:font-name="FreeSans" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="FreeSans" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties style:language-asian="ru" style:country-asian="RU" style:language-complex="ar" style:country-complex="SA"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties style:font-name="FreeMono" style:font-name-asian="FreeMono" style:font-name-complex="FreeMono"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties style:font-name="Segoe UI Symbol" style:font-name-complex="Segoe UI Symbol"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="bold" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  </style:style>
+  <style:style style:name="fr2" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties style:vertical-pos="from-top" style:vertical-rel="paragraph-content" style:horizontal-pos="from-left" style:horizontal-rel="paragraph-content" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  </style:style>
+  <text:list-style style:name="L1">
+   <text:list-level-style-bullet text:level="1" text:style-name="WW_5f_CharLFO4LVL1" text:bullet-char="◦">
+    <style:list-level-properties text:space-before="0.635cm" text:min-label-width="0.365cm"/>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="WW_5f_CharLFO4LVL2" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.27cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="WW_5f_CharLFO4LVL3" text:bullet-char="▪">
+    <style:list-level-properties text:space-before="1.905cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="WW_5f_CharLFO4LVL4" text:bullet-char="◦">
+    <style:list-level-properties text:space-before="2.54cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="WW_5f_CharLFO4LVL5" text:bullet-char="">
+    <style:list-level-properties text:space-before="3.175cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="WW_5f_CharLFO4LVL6" text:bullet-char="▪">
+    <style:list-level-properties text:space-before="3.81cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="WW_5f_CharLFO4LVL7" text:bullet-char="◦">
+    <style:list-level-properties text:space-before="4.445cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="WW_5f_CharLFO4LVL8" text:bullet-char="">
+    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="WW_5f_CharLFO4LVL9" text:bullet-char="▪">
+    <style:list-level-properties text:space-before="5.715cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-number text:level="10" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L2">
+   <text:list-level-style-bullet text:level="1" text:style-name="WW_5f_CharLFO3LVL1" text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.2cm" text:min-label-width="0.199cm" text:min-label-distance="0.199cm"/>
+    <style:text-properties fo:font-family="mry_KacstQurn" style:font-style-name="Regular"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="WW_5f_CharLFO3LVL2" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="WW_5f_CharLFO3LVL3" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="WW_5f_CharLFO3LVL4" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="WW_5f_CharLFO3LVL5" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="WW_5f_CharLFO3LVL6" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="WW_5f_CharLFO3LVL7" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="WW_5f_CharLFO3LVL8" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="WW_5f_CharLFO3LVL9" text:bullet-char="">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-number text:level="10" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:page-layout style:name="pm2">
+   <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7cm" fo:margin-bottom="0.88cm" fo:margin-left="0.99cm" fo:margin-right="0.99cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm">
+    <style:footnote-sep style:width="0.018cm" style:line-style="solid" style:adjustment="left" style:rel-width="33%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:page-layout style:name="pm3">
+   <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm">
+    <style:footnote-sep style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+  <style:master-page style:name="MP0" style:page-layout-name="pm2"/>
+  <style:master-page style:name="Endnote" style:page-layout-name="pm3"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <table:table table:name="Таблица1" table:style-name="Таблица1">
+    <table:table-column table:style-name="Таблица1.A"/>
+    <table:table-column table:style-name="Таблица1.B"/>
+    <table:table-column table:style-name="Таблица1.C"/>
+    <table:table-row table:style-name="TableLine94467498808320">
+     <table:table-cell table:style-name="Таблица1.A1" table:number-columns-spanned="2" office:value-type="string">
+      <text:p text:style-name="P1">Павлов Юрий Михайлович</text:p>
+      <text:p text:style-name="P2">Разработчик Java</text:p>
+     </table:table-cell>
+     <table:covered-table-cell/>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="https://ympavlov.github.io/ru/Resume_Yury_Pavlov.pdf" office:target-frame-name="_top" xlink:show="replace" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T10">PDF</text:span></text:span></text:a><text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T11">,</text:span></text:span><text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T4"> </text:span></text:span><text:a xlink:type="simple" xlink:href="https://ympavlov.github.io/en/Resume_Yury_Pavlov.html" office:target-frame-name="_top" xlink:show="replace" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T10">Eng</text:span></text:span></text:a><text:a xlink:type="simple" xlink:href="https://ympavlov.github.io/en/resume_yury_pavlov.html" office:target-frame-name="_top" xlink:show="replace" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T10">l</text:span></text:span></text:a><text:a xlink:type="simple" xlink:href="https://ympavlov.github.io/en/resume_yury_pavlov.html" office:target-frame-name="_top" xlink:show="replace" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T10">ish</text:span></text:span></text:a></text:p>
+      <text:h text:style-name="P8" text:outline-level="1">Контакты</text:h>
+      <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="mailto:ympavlov@gmail.com" office:target-frame-name="_top" xlink:show="replace" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">ympavlov@gmail.com</text:span></text:a></text:p>
+      <text:p text:style-name="P4"><draw:a xlink:type="simple" xlink:href="skype:ympavlov"><draw:frame draw:style-name="fr2" draw:name="SKYPE:YMPAVLOV" text:anchor-type="char" svg:x="0.139cm" svg:y="-0.03cm" svg:width="0.423cm" svg:height="0.423cm" draw:z-index="0"><draw:image loext:mime-type="application/pdf">
+          <office:binary-data>JVBERi0xLjUKJbXtrvsKNCAwIG9iago8PCAvTGVuZ3RoIDUgMCBSCiAgIC9GaWx0ZXIgL0Zs
+           YXRlRGVjb2RlCj4+CnN0cmVhbQp4nF1TS44dIQzccwouMI7BgPEx5ghRS2+yyCyS3F9KGbtH
+           741aoqug8J9WGd9bw9I6dbW1er0+y5/CxK3pGlqZsKljAthce0n9+1F//OT68a8sagOXqZvU
+           z9rJbhLr00Yor2RGoi2OWyPbu6QgGHShSJq/l73bYNJj6wjKi8fAV/31LdZH2bix66Q5J7gS
+           T0sW6/NOaK9kjUlVUlC8cLulJMl1a5Lfv5fN22jSEvZS8+w3sOcgJKg/I963Rq2307wDFmmX
+           GueBLwS4x0gWmEOBEn0z9yiIDh9au0jaQinX2DgYJFuTCU3eiGntkVgxEu7pZlMBVYGEreBy
+           mz0IRINsWbJBuhZM+bVwGNiDbjyTweAQYNaSWGlJpBZMljsbfXk31JPd5hZPzydhgkGG9fob
+           gW1GlWMMELB4c0Ut8TgpXskEkS+PuA2MlvvEPbPE7l8MQxt0e8qC55Mw0r5uMsV7DeN30mw3
+           /jIUFFmhEqeCcMcW0BM5IQNPKNnG+U9/q9XHlbvGkJSvnHk24Jh9+Bh+vhfKgKBGBzP2JjNs
+           xIAEjgiuWkBlpnifYsQMPE9HvKrnaXmU9/IfN5jUmAplbmRzdHJlYW0KZW5kb2JqCjUgMCBv
+           YmoKICAgNDQzCmVuZG9iagozIDAgb2JqCjw8CiAgIC9FeHRHU3RhdGUgPDwKICAgICAgL2Ew
+           IDw8IC9DQSAxIC9jYSAxID4+CiAgID4+Cj4+CmVuZG9iagoyIDAgb2JqCjw8IC9UeXBlIC9Q
+           YWdlICUgMQogICAvUGFyZW50IDEgMCBSCiAgIC9NZWRpYUJveCBbIDAgMCAxMi4yODA1MzIg
+           MTIuMjc5NjYyIF0KICAgL0NvbnRlbnRzIDQgMCBSCiAgIC9Hcm91cCA8PAogICAgICAvVHlw
+           ZSAvR3JvdXAKICAgICAgL1MgL1RyYW5zcGFyZW5jeQogICAgICAvSSB0cnVlCiAgICAgIC9D
+           UyAvRGV2aWNlUkdCCiAgID4+CiAgIC9SZXNvdXJjZXMgMyAwIFIKPj4KZW5kb2JqCjEgMCBv
+           YmoKPDwgL1R5cGUgL1BhZ2VzCiAgIC9LaWRzIFsgMiAwIFIgXQogICAvQ291bnQgMQo+Pgpl
+           bmRvYmoKNiAwIG9iago8PCAvUHJvZHVjZXIgKGNhaXJvIDEuMTYuMCAoaHR0cHM6Ly9jYWly
+           b2dyYXBoaWNzLm9yZykpCiAgIC9DcmVhdGlvbkRhdGUgKEQ6MjAyMjA2MTAyMTM2MTErMDMn
+           MDApCj4+CmVuZG9iago3IDAgb2JqCjw8IC9UeXBlIC9DYXRhbG9nCiAgIC9QYWdlcyAxIDAg
+           Ugo+PgplbmRvYmoKeHJlZgowIDgKMDAwMDAwMDAwMCA2NTUzNSBmIAowMDAwMDAwODU5IDAw
+           MDAwIG4gCjAwMDAwMDA2MjkgMDAwMDAgbiAKMDAwMDAwMDU1NyAwMDAwMCBuIAowMDAwMDAw
+           MDE1IDAwMDAwIG4gCjAwMDAwMDA1MzUgMDAwMDAgbiAKMDAwMDAwMDkyNCAwMDAwMCBuIAow
+           MDAwMDAxMDQwIDAwMDAwIG4gCnRyYWlsZXIKPDwgL1NpemUgOAogICAvUm9vdCA3IDAgUgog
+           ICAvSW5mbyA2IDAgUgo+PgpzdGFydHhyZWYKMTA5MgolJUVPRgo=
+          </office:binary-data>
+         </draw:image>
+         <draw:image loext:mime-type="image/png">
+          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACIklEQVR4nHVSTWhTQRDefTtJ
+           XhrRNmrSNqHR9FBqi0KNeFCJwZZ6qFj0IOhBPBTpuR48SBM8ePDqwbOKIihVVPwDjRHFQxEE
+           W6l6aGPTBFIMakzzkrc/ziNhI/4MA+/N7nyzM983oJTKrcmLC/bNL/y7TbpM2r+e9rRRMGjY
+           S49HIOIzyG8GRUsl0tZiRTXiXFWh6+vkvD3WxVKD7u3tTRicn6/r7L9NKnIvLzKr1SdxM+Zn
+           DuDOivgjaTzEdm906r37Jm8vC6EItjqasdIJL74DP+xWeUbJ07gZD7A17hy2AZ3eJhPparHm
+           YFJz9Zm9JnSaVLd0qJth9qMCP/q6hkfJAdfZfvdIJ1zPcrx9UBDZioSorwXwOE06RA11GLMl
+           ee69fXWJfy4rPc+NLIfoOvqs2GxpJifelsROP3t1wFvh6s1XiVx/KnPd80pVId1Ux7Ykwy+s
+           8TCMBtn+gDEcZOg49LWlJgZFg5C3BfC7ybEeuLLIGxkTUbgc80z2ggbk8YUTEUjONZk6HIJL
+           Q55EgE3M1pCWgEkbUuqKC2XlKD/Wze7nHTVuLfPTvXAkDEhXXRIf0FJNXfhgawDSA/hJDbpe
+           rgos+ZOTfc+tkSDbs8kwGf1YlndzHEXQttlDHcCOdvY4bh7MWIjBuR8WBPo/N+XUVoDG3y4/
+           Q+VRS1RH/mezYh3GVJ8LdIx7gsqjlqgO8o2GnOCU2DdOf3ILnOlzbXDTX9RXAmMCu8RoAAAA
+           AElFTkSuQmCC
+          </office:binary-data>
+         </draw:image>
+        </draw:frame></draw:a><text:a xlink:type="simple" xlink:href="skype:ympavlov" office:target-frame-name="_top" xlink:show="replace" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">ympavlov</text:span></text:a><text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T6">,</text:span></text:span><draw:a xlink:type="simple" xlink:href="tg://msg?to=+79851743627"><draw:frame draw:style-name="fr1" draw:name="TG://MSG?TO=+79851743627" text:anchor-type="char" svg:x="2.499cm" svg:y="-0.03cm" svg:width="0.423cm" svg:height="0.423cm" draw:z-index="1"><draw:image loext:mime-type="application/pdf">
+          <office:binary-data>JVBERi0xLjUKJbXtrvsKNCAwIG9iago8PCAvTGVuZ3RoIDUgMCBSCiAgIC9GaWx0ZXIgL0Zs
+           YXRlRGVjb2RlCj4+CnN0cmVhbQp4nGWTS24cMQxE9zoFLxBF/Io6ho8QNBBnYS+S3B9IkT0e
+           OAkMGP2mKYpVxWZa+PvC+Mcy1f2o0vU+fo41ZekRoTX9xNqJh/RMMfr1Sl+/LXr9PbheEk93
+           pncCGQ4AlQtErd+dgmUbENWezkwO0BalmJw2SKc4yczFZDN2oArVaeSTzekNhAKfWv0X+vuM
+           5c/nc6RPgAZaSlRZHYwZ4t0q8Yx+F65yqNmYPNFX59aknCsDNzNvTCeYy6awD4DLxiFgvdlr
+           49HYShJ7HdlbW2xIl6VlYx7AkSjQhal8rmUPQqXf9twIXaeP8SmRtndDmxVtx+nR3jAofh1t
+           dfjNp812zJzTstskCyBzf0B5rqkfCCHl0KprSyN8OfAw7mxQh4KagVuHdFB/wVVYNki7AOBE
+           J54ZXblMK184e9U1h/MRPqCvRgb0eXsu+lHb1EsQYfc2LXfkEwrnIecgTojSMmMztzWVx57b
+           BFZ4Z4C6QG6F1WdPW/IPwSap5GqBskZAouh9AXYnr23fdqOB3CMeYL0Y15M4nicqnJyB7O/n
+           KvLnRuHCE6OgNs383q5SsNswgxu16fj+oKnWBKXCD30XLFHs/b3lbzS0Ps1SJN7KKgeoweqc
+           bqH4DJw+u/m/u9/Hy/gDaEvDPwplbmRzdHJlYW0KZW5kb2JqCjUgMCBvYmoKICAgNDg1CmVu
+           ZG9iagozIDAgb2JqCjw8CiAgIC9FeHRHU3RhdGUgPDwKICAgICAgL2EwIDw8IC9DQSAxIC9j
+           YSAxID4+CiAgID4+Cj4+CmVuZG9iagoyIDAgb2JqCjw8IC9UeXBlIC9QYWdlICUgMQogICAv
+           UGFyZW50IDEgMCBSCiAgIC9NZWRpYUJveCBbIDAgMCAxMi4zNTU5MzMgMTIuMzU1OTMzIF0K
+           ICAgL0NvbnRlbnRzIDQgMCBSCiAgIC9Hcm91cCA8PAogICAgICAvVHlwZSAvR3JvdXAKICAg
+           ICAgL1MgL1RyYW5zcGFyZW5jeQogICAgICAvSSB0cnVlCiAgICAgIC9DUyAvRGV2aWNlUkdC
+           CiAgID4+CiAgIC9SZXNvdXJjZXMgMyAwIFIKPj4KZW5kb2JqCjEgMCBvYmoKPDwgL1R5cGUg
+           L1BhZ2VzCiAgIC9LaWRzIFsgMiAwIFIgXQogICAvQ291bnQgMQo+PgplbmRvYmoKNiAwIG9i
+           ago8PCAvUHJvZHVjZXIgKGNhaXJvIDEuMTYuMCAoaHR0cHM6Ly9jYWlyb2dyYXBoaWNzLm9y
+           ZykpCiAgIC9DcmVhdGlvbkRhdGUgKEQ6MjAyMjA2MTAyMTM2MTMrMDMnMDApCj4+CmVuZG9i
+           ago3IDAgb2JqCjw8IC9UeXBlIC9DYXRhbG9nCiAgIC9QYWdlcyAxIDAgUgo+PgplbmRvYmoK
+           eHJlZgowIDgKMDAwMDAwMDAwMCA2NTUzNSBmIAowMDAwMDAwOTAxIDAwMDAwIG4gCjAwMDAw
+           MDA2NzEgMDAwMDAgbiAKMDAwMDAwMDU5OSAwMDAwMCBuIAowMDAwMDAwMDE1IDAwMDAwIG4g
+           CjAwMDAwMDA1NzcgMDAwMDAgbiAKMDAwMDAwMDk2NiAwMDAwMCBuIAowMDAwMDAxMDgyIDAw
+           MDAwIG4gCnRyYWlsZXIKPDwgL1NpemUgOAogICAvUm9vdCA3IDAgUgogICAvSW5mbyA2IDAg
+           Ugo+PgpzdGFydHhyZWYKMTEzNAolJUVPRgo=
+          </office:binary-data>
+         </draw:image>
+         <draw:image loext:mime-type="image/png">
+          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABtUlEQVR4nGP5//8/AymAhSTV
+           RGk4/fTb6qsfjz76lm0mHKUngFPD11//tt76BFT64MNvPXEOPnamBx9+Ybfhwftfq65+BKr+
+           +5/BQ4W3xVlCTZjNccF9FSE2FA1///0/9PDrqisfzzz7Ls3HkmYs5KvBd+XlD34Opqef/gAt
+           1BTlgGoAclZd/bD22qeXX/5YyXJN8JQEko8//a7f99JBkcdKjnX33c9MjAyqwjAbppx8s+ba
+           Jy9V3lRjIRl+1s8///Yff7Pm6sdSG1F/DT6gguuvfyoKsnGwMEE1WMhybb/zBWjMn3//1YTZ
+           F196//HHv0pb0UBNfohrb7z5qSnCjghWewWeHTFcu+5+WXnlA5AEimSZCQVp8cO9B7TBQYEb
+           JR44WJn8NPj0JThCVj4Ccq1kubO3PE0yEjSW4nr88deXX/80kG2AA3kBNmUhtueffxfvfP7x
+           x9/crc/aXSV+/PkP9DHQqVg0AIGbMs/00+80RFiXBMlOO/22bNcLVWF2RQE2oBOwa4g3EATa
+           bibNxcLMWGUnJsjJvOLyh3wLEbgCdA3MTIxWctxwbqapMBAhKyA5tQIADbmtfSTGcyYAAAAA
+           SUVORK5CYII=
+          </office:binary-data>
+         </draw:image>
+        </draw:frame></draw:a><text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T6"> </text:span></text:span><text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T6">  </text:span></text:span><text:a xlink:type="simple" xlink:href="skype:ympavlov" office:target-frame-name="_top" xlink:show="replace" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">+7 985 174‒36‒27</text:span></text:a><text:a xlink:type="simple" xlink:href="skype:ympavlov" office:target-frame-name="_top" xlink:show="replace" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"> </text:a></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="TableLine94467602239520">
+     <table:table-cell table:style-name="Таблица1.A1" table:number-columns-spanned="3" office:value-type="string">
+      <text:p text:style-name="Обычный">Имею большой опыт участия в проектах для крупных предприятий на стеках <text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8">Java/Spring, Oracle</text:span></text:span>, с опытом</text:p>
+     </table:table-cell>
+     <table:covered-table-cell/>
+     <table:covered-table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="TableLine94467564460800">
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:list xml:id="list3721039374" text:style-name="L1">
+       <text:list-item>
+        <text:p text:style-name="P13">погружения в бизнес области (банковский и товарный учет, <text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8">track&amp;trace</text:span></text:span>, отчетность)</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P13">участия в работе с беклогом задач (оценка, приоритезация, декомпозиция)</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P13">участия в управлении архитектурой приложения</text:p>
+       </text:list-item>
+      </text:list>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица1.A1" table:number-columns-spanned="2" office:value-type="string">
+      <text:list xml:id="list214116235418908" text:continue-numbering="true" text:style-name="L1">
+       <text:list-item>
+        <text:p text:style-name="P13">ведения команд разработчиков, внедрения методологий разработки (<text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8">Scrum, Lean/Kanban, CI, code review</text:span></text:span>)</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P13">ведения зон личной ответственности (внедрение практик разработки, технологий, контроль атрибутов качества)</text:p>
+       </text:list-item>
+      </text:list>
+     </table:table-cell>
+     <table:covered-table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="TableLine94467672482944">
+     <table:table-cell table:style-name="Таблица1.A1" table:number-columns-spanned="3" office:value-type="string">
+      <text:p text:style-name="Text_20_body">Заинтересован погружаться в разработку прикладной и технической архитектуры, развиваться в качестве участника <text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8">agile</text:span></text:span>-команд (включая лидерство).</text:p>
+      <text:p text:style-name="Text_20_body">Интересно погружаться в контекст, занимать ответственную позицию на проекте (не обязательно <text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8">team</text:span></text:span> <text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8">lead</text:span></text:span>), работать, ориентируясь на приоритеты и ценности клиента.</text:p>
+      <text:p text:style-name="Text_20_body">Из технологий интересна разработка в рамках микросервисной архитектуры, применение <text:span text:style-name="T8">Domain-driven design</text:span>.</text:p>
+     </table:table-cell>
+     <table:covered-table-cell/>
+     <table:covered-table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="Таблица1.5">
+     <table:table-cell table:style-name="Таблица1.A1" table:number-columns-spanned="2" office:value-type="string">
+      <text:h text:style-name="Heading_20_1" text:outline-level="1">Профессиональный опыт (10+ лет)</text:h>
+      <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:a xlink:type="simple" xlink:href="https://www.fors.ru/" office:target-frame-name="_top" xlink:show="replace" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">ФОРС</text:span></text:a> — Центр разработки</text:h>
+      <text:h text:style-name="Heading_20_3" text:outline-level="3">июль 2020 — ноябрь 2020, ведущий разработчик</text:h>
+      <text:p text:style-name="Text_20_body">Сфера: ЖКХ, отчетность, статистика</text:p>
+      <text:p text:style-name="Text_20_body">Приложение: монолит Java EE + отдельные сервисы. <text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8">Java SE/EE, Spring, SOAP, OLAP, Oracle PL/SQL, WebLogic, JavaScript/CSS/jQuery, Jenkins, Maven, code review</text:span></text:span></text:p>
+      <text:p text:style-name="Text_20_body">Обязанности:</text:p>
+      <text:list xml:id="list4029569730" text:style-name="L2">
+       <text:list-item>
+        <text:p text:style-name="P10">Ведение команды разработчиков и тестировщиков из 4-6 человек</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Налаживание процессов (разработки, тестирования, <text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T9">code review</text:span></text:span>) и коммуникации внутри новой команды и с представителями заказчика</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Устранение препятствий для работы команды </text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Работа с беклогом: декомпозиция, оценка задач</text:p>
+       </text:list-item>
+      </text:list>
+      <text:p text:style-name="Text_20_body">Результат:</text:p>
+      <text:list xml:id="list214116367336030" text:continue-numbering="true" text:style-name="L2">
+       <text:list-item>
+        <text:p text:style-name="P10">Успешный старт проекта с выдачей в срок результатов заказчику (к сожалению, проект остановили по другим причинам)</text:p>
+       </text:list-item>
+      </text:list>
+      <text:h text:style-name="Heading_20_2" text:outline-level="2">различные проекты</text:h>
+      <text:h text:style-name="Heading_20_3" text:outline-level="3">август 2019 — январь 2020, разработчик</text:h>
+      <text:p text:style-name="Text_20_body">Сфера: ведение проектов, учет, банки</text:p>
+      <text:p text:style-name="Text_20_body"><text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T12">Модульный монолит</text:span></text:span><text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T9">. Java SE 8, SOAP, OpenAPI, SOAP, API-driven, Test-driven, PostgreSQL, Oracle PL/SQL, code review </text:span></text:span></text:p>
+      <text:p text:style-name="P5">Обязанности:</text:p>
+      <text:list xml:id="list214115540627682" text:continue-numbering="true" text:style-name="L2">
+       <text:list-item>
+        <text:p text:style-name="P11">Доработка решения для конкретного клиента, реализация интеграций </text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P11">Адаптация существующего решения для интеграции с внедряемыми</text:p>
+       </text:list-item>
+      </text:list>
+      <text:p text:style-name="P5">Результаты:</text:p>
+      <text:list xml:id="list214115414262750" text:continue-numbering="true" text:style-name="L2">
+       <text:list-item>
+        <text:p text:style-name="P11">Решение понравилось потенциальному клиенту</text:p>
+       </text:list-item>
+      </text:list>
+      <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:a xlink:type="simple" xlink:href="https://3keys.com/" office:target-frame-name="_top" xlink:show="replace" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">3keys GmbH</text:span></text:a><text:span text:style-name="Internet_20_link"> </text:span></text:h>
+      <text:h text:style-name="Heading_20_3" text:outline-level="3">ноябрь 2018 — август 2019, разработчик, консультант по внедрению </text:h>
+      <text:p text:style-name="Text_20_body">Сфера: <text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8">track&amp;trace</text:span></text:span> (учет и маркировка продукции), разработка новых и адаптация существующих систем под <text:a xlink:type="simple" xlink:href="https://ec.europa.eu/health/tobacco/product-regulation/implementing-tobacco-products-directive-directive-201440eu/revision-tobacco-products-directive_en" office:target-frame-name="_top" xlink:show="replace" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">EU TPD</text:span></text:a></text:p>
+      <text:p text:style-name="Text_20_body">Проекты для нескольких клиентов на базе SaaS/PaaS-платформы Honeywell <text:a xlink:type="simple" xlink:href="https://www.movilizer.com/" office:target-frame-name="_top" xlink:show="replace" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">Movilizer</text:span></text:a></text:p>
+      <text:p text:style-name="Text_20_body">Основной стек<text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8">: Java, Spring, Event sourcing, API-driven, SOAP, OpenAPI, Groovy</text:span></text:span></text:p>
+     </table:table-cell>
+     <table:covered-table-cell/>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:h text:style-name="Heading_20_1" text:outline-level="1">Образование</text:h>
+      <text:list xml:id="list214115575702085" text:continue-numbering="true" text:style-name="L2">
+       <text:list-item>
+        <text:p text:style-name="P10">2010 — МГУ, механико-математический факультет, специалист</text:p>
+       </text:list-item>
+      </text:list>
+      <text:h text:style-name="Heading_20_1" text:outline-level="1">Ключевые навыки</text:h>
+      <text:list xml:id="list214115919659282" text:continue-numbering="true" text:style-name="L2">
+       <text:list-item>
+        <text:p text:style-name="P10"><text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T11">Java</text:span></text:span><text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8"> (core, concurrency, JMM)</text:span></text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10"><text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T11">Spring</text:span></text:span><text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8"> (Boot, Web, MVC, Data, JDBC)</text:span></text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Объектно-ориентированное проектирование, объектно-ориентированные шаблоны</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Понимание архитектурных шаблонов</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10"><text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T2">SQL</text:span></text:span>, глубокое понимание РСУБД, Oralcle (в т. ч. PL/SQL)</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P12">REST, SOAP, OpenAPI, API-driven</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10"><text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T11">Agile, Scrum</text:span></text:span><text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8">, Lean/Kanban</text:span></text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Ведение команды разработчиков (2-6 человек)</text:p>
+       </text:list-item>
+      </text:list>
+      <text:h text:style-name="Heading_20_1" text:outline-level="1">Иностранные языки</text:h>
+      <text:list xml:id="list214116232433271" text:continue-numbering="true" text:style-name="L2">
+       <text:list-item>
+        <text:p text:style-name="P10">английский — B2 (<text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8">upper intermediate</text:span></text:span>)</text:p>
+       </text:list-item>
+      </text:list>
+      <text:h text:style-name="Heading_20_1" text:outline-level="1">Предпочтения</text:h>
+      <text:list xml:id="list214115141034212" text:continue-numbering="true" text:style-name="L2">
+       <text:list-item>
+        <text:p text:style-name="P10">Москва, не готов к переезду. Командировки приемлемы</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Удаленная работа или работа в команде в офисе</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Относительная свобода принятия решений. Здорово, если обозначаются цели, рамки и приоритеты, а не фиксируются задачи и <text:s/>средства реализации</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Предпочтительно продуктовая разработка или <text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8">in-house</text:span></text:span>, ближе к ценностям и потребностям клиента/заказчика</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Без переработок</text:p>
+       </text:list-item>
+      </text:list>
+     </table:table-cell>
+    </table:table-row>
+    <text:soft-page-break/>
+    <table:table-row table:style-name="TableLine94467557012704">
+     <table:table-cell table:style-name="Таблица1.A1" table:number-columns-spanned="3" office:value-type="string">
+      <text:p text:style-name="Text_20_body">Обязанности:</text:p>
+      <text:list xml:id="list214114348650412" text:continue-numbering="true" text:style-name="L2">
+       <text:list-item>
+        <text:p text:style-name="P10">Ведение разработки веб-сервиса-адаптера и фасада для <text:s/>Honeywell Movilizer с целью удовлетворения клиентом 1 требований EU TPD. Задействованы технологии: Spring Boot, Apache CXF, Swing, gRPC, Gradle</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Поддержка и доработка комплексного существующего решения для <text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8">track&amp;trace</text:span></text:span> (SaaS, PaaS, <text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8">on premise</text:span></text:span>) у клиента 2 (<text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8">BIG-4 tobacco</text:span></text:span>). Используемые технологии: Apache CXF, JUnit, Node.JS, Python Core, Redis, Kafka, MS SQL Server, T-SQL, Maven</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Проведение собеседований кандидатов на русском и английском языках, к себе в команду и в российский офис в целом</text:p>
+       </text:list-item>
+      </text:list>
+      <text:p text:style-name="Text_20_body">Достижения:</text:p>
+      <text:list xml:id="list214116267512980" text:continue-numbering="true" text:style-name="L2">
+       <text:list-item>
+        <text:p text:style-name="P10">Быстрое погружение в <text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8">track&amp;trace</text:span></text:span> и регулярная выдача результата на проектах, начиная с первых недель</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Доведение нового проекта до опытно-промышленной эксплуатации и передача заказчику (клиент 1)</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Успешная адаптация существующего решения под EU TDP у клиента 2</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Ускоренное усиление российской команды 3keys 10-15 разработчиками — до уровня, необходимого для завершения проектов к EU TDP в срок</text:p>
+       </text:list-item>
+      </text:list>
+      <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:a xlink:type="simple" xlink:href="https://custis.ru/" office:target-frame-name="_top" xlink:show="replace" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">CUSTIS</text:span></text:a><text:span text:style-name="Internet_20_link"> </text:span></text:h>
+      <text:h text:style-name="Heading_20_3" text:outline-level="3">январь 2017 — июнь 2018, ведущий <text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8">full stack</text:span></text:span> разработчик web-приложений на Java</text:h>
+      <text:p text:style-name="Text_20_body">Используемые технологии: Java SE, Spring, Sencha ExtJS, Oracle PL/SQL, WebLogic, IBM WebSphere, Jenkins</text:p>
+      <text:p text:style-name="Text_20_body">Обязанности:</text:p>
+      <text:list xml:id="list214115051202985" text:continue-numbering="true" text:style-name="L2">
+       <text:list-item>
+        <text:p text:style-name="P10">Поддержка существующих решений и проектная разработка новых</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Ведение команды разработчиков 2-5 человек</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Работа с беклогом: декомпозиция, оценка задач</text:p>
+       </text:list-item>
+      </text:list>
+      <text:p text:style-name="Text_20_body">Достижения:</text:p>
+      <text:list xml:id="list214115530605365" text:continue-numbering="true" text:style-name="L2">
+       <text:list-item>
+        <text:p text:style-name="P10">Интенсивное освоение нового стека технологий (<text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8">Java/Spring/ExtJS</text:span></text:span>)</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Доведение 3-х месячного проекта у клиента к успешному внедрению</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Разработка с нуля двух новых систем для одного из клиентов</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Внедрение практик <text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8">code review</text:span></text:span> </text:p>
+       </text:list-item>
+      </text:list>
+      <text:h text:style-name="Heading_20_3" text:outline-level="3">январь 2015 — декабрь 2016,старший разработчик </text:h>
+      <text:p text:style-name="Text_20_body">Поддержка и доработка существующего решения финансового модуля для крупной международной компании</text:p>
+      <text:p text:style-name="Text_20_body">Используемые<text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8"> </text:span></text:span>технологии<text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8">: OLAP, Event sourcing, Oracle Database, DB partitioning, PL/SQL, Freemarker, .NET, Teamcity, Lean Software</text:span></text:span></text:p>
+      <text:p text:style-name="Text_20_body">Достижения:</text:p>
+      <text:list xml:id="list214114948106889" text:continue-numbering="true" text:style-name="L2">
+       <text:list-item>
+        <text:p text:style-name="P10">Поддержка разработки на плаву в условиях смены всей команды разработчиков </text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Внедрение методологии <text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8">Lean Software</text:span></text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Успешная передача проекта на поддержку заказчику</text:p>
+       </text:list-item>
+      </text:list>
+      <text:h text:style-name="Heading_20_3" text:outline-level="3">июль 2009 — декабрь 2014, проекты АС «Главная книга» и АС «Компонент разметки отчетности» для АО Газпромбанк, разработчик, техлид, <text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8">Scrum</text:span></text:span>-мастер </text:h>
+      <text:p text:style-name="Text_20_body">Используемые технологии: Oracle Database, PL/SQL, XML, XSLT, XSD, JavaScript, Perl</text:p>
+      <text:p text:style-name="Text_20_body">Обязанности:</text:p>
+      <text:list xml:id="list214115576709478" text:continue-numbering="true" text:style-name="L2">
+       <text:list-item>
+        <text:p text:style-name="P10">Разработка с использованием внутренних технологий, развитие внутренних технологий</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Проектирование модели данных, написание постановок для разработчиков</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Работа с беклогом: декомпозиция, оценка задач, ведение нефункциональных задач</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Обеспечение соблюдения внутренних архитектурных соглашений</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Менторство стажеров</text:p>
+       </text:list-item>
+      </text:list>
+      <text:p text:style-name="Text_20_body">Достижения:</text:p>
+      <text:list xml:id="list214115032832246" text:continue-numbering="true" text:style-name="L2">
+       <text:list-item>
+        <text:p text:style-name="P10">Успешное завершение проектов и передача их в промышленную эксплуатацию</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10">Успешное внедрение практики <text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8">code</text:span></text:span> <text:span text:style-name="Основной_20_шрифт_20_абзаца"><text:span text:style-name="T8">review</text:span></text:span> в команде, в дальнейшем практика была распространена на весь проект</text:p>
+       </text:list-item>
+      </text:list>
+      <text:p text:style-name="P7">Внедрение практики написания технических постановок (<text:span text:style-name="T8">design doc</text:span>)</text:p>
+     </table:table-cell>
+     <table:covered-table-cell/>
+     <table:covered-table-cell/>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="Обычный"/>
+  </office:text>
+ </office:body>
+</office:document>
