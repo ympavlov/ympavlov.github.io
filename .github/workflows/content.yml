@@ -26,4 +26,6 @@ jobs:
       - name: Deploy GitHub Pages
         uses: actions/deploy-pages@v1
         with:
+          branch: main
+          folder: .
           emit_telemetry: false
