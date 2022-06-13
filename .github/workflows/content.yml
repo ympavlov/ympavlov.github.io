@@ -1,4 +1,4 @@
-name: Generate web content from sources
+name: Make content & deploy
 
 on:
   page_build
@@ -21,4 +21,6 @@ jobs:
         run: make
 
       - name: Deploy GitHub Pages
-        uses: actions/deploy-pages
+        uses: actions/deploy-pages@v1
+        with:
+          emit_telemetry: false
