@@ -5,7 +5,7 @@ on:
 
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     permissions:
       id-token: write
       contents: read
@@ -24,8 +24,7 @@ jobs:
         run: make
 
       - name: Deploy GitHub Pages
-        uses: actions/deploy-pages@v1
+        uses: JamesIves/github-pages-deploy-action@v4.3.3
         with:
           branch: main
           folder: .
-          emit_telemetry: false
